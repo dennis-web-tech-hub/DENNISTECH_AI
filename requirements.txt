@@ -1,0 +1,6 @@
+python-telegram-bot==20.*
+requests
+beautifulsoup4
+lxml
+python-dotenv
+colorama
